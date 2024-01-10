@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CarrierClass</members>
+		<members>CarrierDispatcher</members>
+		<members>CarrierFactory</members>
+		<members>CarrierIntegration</members>
+		<members>ChronopostIntegration</members>
+		<members>ColissimoIntegration</members>
+		<members>DhlIntegration</members>
+		<members>JsonGenerator</members>
+		<members>Logs</members>
+		<members>MarketingCloudApiHandelerClass</members>
+		<members>UpsIntegration</members>
+		<name>ApexClass</name>
+	</types>
+	<version>58.0</version>
+</Package>
